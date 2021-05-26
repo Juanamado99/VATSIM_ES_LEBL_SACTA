@@ -1,0 +1,8 @@
+System_State_OnFreq=S/U
+System_State_StartUp=S/U
+System_State_Push=P/B
+System_State_Taxi=TAX
+System_State_LineUp=L/U
+System_State_Depa=DEP
+System_SchengenArea=BI,EB,ED,EE,EF,EH,EK,EL,EN,EP,ES,ET,EV,EY,GC,LE,LF,LG,LH,LI,LJ,LK,LM,LO,LP,LS,LZ
+System_AutoAssignDist=50

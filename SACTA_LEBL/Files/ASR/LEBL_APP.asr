@@ -1,0 +1,267 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\user\Documents\EuroScope\LEXX\LECB-LECB_20210520192013-210501-0001.sct
+SECTORTITLE:LECB-LECB_20210520192013-210501-0001.sct
+Airports:LEDA:name
+Airports:LEDA:symbol
+Airports:LEGE:name
+Airports:LEGE:symbol
+Airports:LELL:name
+Airports:LELL:symbol
+Airports:LERS:name
+Airports:LERS:symbol
+Airports:LESU:name
+Airports:LESU:symbol
+Fixes:ALBER:name
+Fixes:ALBER:symbol
+Fixes:BISBA:name
+Fixes:BISBA:symbol
+Fixes:CASPE:name
+Fixes:CASPE:symbol
+Fixes:GRAUS:name
+Fixes:GRAUS:symbol
+Fixes:LESBA:name
+Fixes:LESBA:symbol
+Fixes:LOBAR:name
+Fixes:LOBAR:symbol
+Fixes:MARTA:name
+Fixes:MARTA:symbol
+Fixes:MATEX:name
+Fixes:MATEX:symbol
+Fixes:NEPAL:name
+Fixes:NEPAL:symbol
+Fixes:OSTUR:name
+Fixes:OSTUR:symbol
+Fixes:PUMAL:name
+Fixes:PUMAL:symbol
+Fixes:RUBOT:name
+Fixes:RUBOT:symbol
+Fixes:RULOS:name
+Fixes:RULOS:symbol
+Fixes:TOTKI:name
+Fixes:TOTKI:symbol
+Fixes:VERSO:name
+Fixes:VERSO:symbol
+Fixes:VIBIM:name
+Fixes:VIBIM:symbol
+Free Text:LEBL ATCSMAC\12000:freetext
+Free Text:LEBL ATCSMAC\14000:freetext
+Free Text:LEBL ATCSMAC\1500:freetext
+Free Text:LEBL ATCSMAC\1900:freetext
+Free Text:LEBL ATCSMAC\3500:freetext
+Free Text:LEBL ATCSMAC\3500:freetext
+Free Text:LEBL ATCSMAC\4000:freetext
+Free Text:LEBL ATCSMAC\4000:freetext
+Free Text:LEBL ATCSMAC\4200:freetext
+Free Text:LEBL ATCSMAC\4600:freetext
+Free Text:LEBL ATCSMAC\5000:freetext
+Free Text:LEBL ATCSMAC\5000:freetext
+Free Text:LEBL ATCSMAC\5100:freetext
+Free Text:LEBL ATCSMAC\6000:freetext
+Free Text:LEBL ATCSMAC\6000:freetext
+Free Text:LEBL ATCSMAC\7000:freetext
+Free Text:LEBL ATCSMAC\7200:freetext
+Free Text:LEBL ATCSMAC\7500:freetext
+Free Text:LEBL ATCSMAC\8000:freetext
+Free Text:LEBL ATCSMAC\8000:freetext
+Free Text:LEBL ATCSMAC\8000:freetext
+Free Text:LEBL ATCSMAC\9000:freetext
+Free Text:LEDA VFR\E:freetext
+Free Text:LEDA VFR\N:freetext
+Free Text:LEDA VFR\S:freetext
+Free Text:LEDA VFR\SW:freetext
+Free Text:LEGE VFR\E:freetext
+Free Text:LEGE VFR\SE:freetext
+Free Text:LEGE VFR\SW:freetext
+Free Text:LEGE VFR\W:freetext
+Free Text:LELL VFR\E:freetext
+Free Text:LELL VFR\N:freetext
+Free Text:LELL VFR\NE:freetext
+Free Text:LELL VFR\W:freetext
+Free Text:LERS VFR\E:freetext
+Free Text:LERS VFR\N:freetext
+Free Text:LERS VFR\S:freetext
+Free Text:LERS VFR\W:freetext
+Free Text:LESU VFR\E:freetext
+Free Text:LESU VFR\N:freetext
+Free Text:LESU VFR\S:freetext
+Geo:GEO:
+Geo:LEBL MRVA:
+Geo:LECB Landmark Baleares:
+Geo:LECB Landmark Border Spain - France:
+Geo:LECB Landmark Coastline France:
+Geo:LECB Landmark Coastline litoral este:
+NDBs:LRD:name
+NDBs:LRD:symbol
+Runways:LEBL 02-20:centerline
+Runways:LEBL 02-20:extended centerline 1
+Runways:LEBL 02-20:extended centerline 1 left base
+Runways:LEBL 02-20:extended centerline 1 left ticks
+Runways:LEBL 02-20:extended centerline 1 left vectoring
+Runways:LEBL 02-20:extended centerline 1 right base
+Runways:LEBL 02-20:extended centerline 1 right ticks
+Runways:LEBL 02-20:extended centerline 1 right vectoring
+Runways:LEBL 02-20:extended centerline 2
+Runways:LEBL 02-20:extended centerline 2 left base
+Runways:LEBL 02-20:extended centerline 2 left ticks
+Runways:LEBL 02-20:extended centerline 2 left vectoring
+Runways:LEBL 02-20:extended centerline 2 right base
+Runways:LEBL 02-20:extended centerline 2 right ticks
+Runways:LEBL 02-20:extended centerline 2 right vectoring
+Runways:LEBL 07L-25R:centerline
+Runways:LEBL 07L-25R:extended centerline 1
+Runways:LEBL 07L-25R:extended centerline 1 left base
+Runways:LEBL 07L-25R:extended centerline 1 left ticks
+Runways:LEBL 07L-25R:extended centerline 1 left vectoring
+Runways:LEBL 07L-25R:extended centerline 1 right base
+Runways:LEBL 07L-25R:extended centerline 1 right ticks
+Runways:LEBL 07L-25R:extended centerline 1 right vectoring
+Runways:LEBL 07L-25R:extended centerline 2
+Runways:LEBL 07L-25R:extended centerline 2 left base
+Runways:LEBL 07L-25R:extended centerline 2 left ticks
+Runways:LEBL 07L-25R:extended centerline 2 left vectoring
+Runways:LEBL 07L-25R:extended centerline 2 right base
+Runways:LEBL 07L-25R:extended centerline 2 right ticks
+Runways:LEBL 07L-25R:extended centerline 2 right vectoring
+Runways:LEBL 07R-25L:centerline
+Runways:LEBL 07R-25L:extended centerline 1
+Runways:LEBL 07R-25L:extended centerline 1 left base
+Runways:LEBL 07R-25L:extended centerline 1 left ticks
+Runways:LEBL 07R-25L:extended centerline 1 left vectoring
+Runways:LEBL 07R-25L:extended centerline 1 right base
+Runways:LEBL 07R-25L:extended centerline 1 right ticks
+Runways:LEBL 07R-25L:extended centerline 1 right vectoring
+Runways:LEBL 07R-25L:extended centerline 2
+Runways:LEBL 07R-25L:extended centerline 2 left base
+Runways:LEBL 07R-25L:extended centerline 2 left ticks
+Runways:LEBL 07R-25L:extended centerline 2 left vectoring
+Runways:LEBL 07R-25L:extended centerline 2 right base
+Runways:LEBL 07R-25L:extended centerline 2 right ticks
+Runways:LEBL 07R-25L:extended centerline 2 right vectoring
+Runways:LEDA 13-31:centerline
+Runways:LEDA 13-31:extended centerline 1
+Runways:LEDA 13-31:extended centerline 1 left base
+Runways:LEDA 13-31:extended centerline 1 left ticks
+Runways:LEDA 13-31:extended centerline 1 left vectoring
+Runways:LEDA 13-31:extended centerline 1 right base
+Runways:LEDA 13-31:extended centerline 1 right ticks
+Runways:LEDA 13-31:extended centerline 1 right vectoring
+Runways:LEDA 13-31:extended centerline 2
+Runways:LEDA 13-31:extended centerline 2 left base
+Runways:LEDA 13-31:extended centerline 2 left ticks
+Runways:LEDA 13-31:extended centerline 2 left vectoring
+Runways:LEDA 13-31:extended centerline 2 right base
+Runways:LEDA 13-31:extended centerline 2 right ticks
+Runways:LEDA 13-31:extended centerline 2 right vectoring
+Runways:LEDA 13-31:name
+Runways:LEGE 02-20:centerline
+Runways:LEGE 02-20:extended centerline 1
+Runways:LEGE 02-20:extended centerline 1 left base
+Runways:LEGE 02-20:extended centerline 1 left ticks
+Runways:LEGE 02-20:extended centerline 1 left vectoring
+Runways:LEGE 02-20:extended centerline 1 right base
+Runways:LEGE 02-20:extended centerline 1 right ticks
+Runways:LEGE 02-20:extended centerline 1 right vectoring
+Runways:LEGE 02-20:extended centerline 2
+Runways:LEGE 02-20:extended centerline 2 left base
+Runways:LEGE 02-20:extended centerline 2 left ticks
+Runways:LEGE 02-20:extended centerline 2 left vectoring
+Runways:LEGE 02-20:extended centerline 2 right base
+Runways:LEGE 02-20:extended centerline 2 right ticks
+Runways:LEGE 02-20:extended centerline 2 right vectoring
+Runways:LEGE 02-20:name
+Runways:LELL 13-31:centerline
+Runways:LELL 13-31:extended centerline 1
+Runways:LELL 13-31:extended centerline 1 left base
+Runways:LELL 13-31:extended centerline 1 left ticks
+Runways:LELL 13-31:extended centerline 1 left vectoring
+Runways:LELL 13-31:extended centerline 1 right base
+Runways:LELL 13-31:extended centerline 1 right ticks
+Runways:LELL 13-31:extended centerline 1 right vectoring
+Runways:LELL 13-31:extended centerline 2
+Runways:LELL 13-31:extended centerline 2 left base
+Runways:LELL 13-31:extended centerline 2 left ticks
+Runways:LELL 13-31:extended centerline 2 left vectoring
+Runways:LELL 13-31:extended centerline 2 right base
+Runways:LELL 13-31:extended centerline 2 right ticks
+Runways:LELL 13-31:extended centerline 2 right vectoring
+Runways:LELL 13-31:name
+Runways:LERS 07-25:centerline
+Runways:LERS 07-25:extended centerline 1
+Runways:LERS 07-25:extended centerline 1 left base
+Runways:LERS 07-25:extended centerline 1 left ticks
+Runways:LERS 07-25:extended centerline 1 left vectoring
+Runways:LERS 07-25:extended centerline 1 right base
+Runways:LERS 07-25:extended centerline 1 right ticks
+Runways:LERS 07-25:extended centerline 1 right vectoring
+Runways:LERS 07-25:extended centerline 2
+Runways:LERS 07-25:extended centerline 2 left base
+Runways:LERS 07-25:extended centerline 2 left ticks
+Runways:LERS 07-25:extended centerline 2 left vectoring
+Runways:LERS 07-25:extended centerline 2 right base
+Runways:LERS 07-25:extended centerline 2 right ticks
+Runways:LERS 07-25:extended centerline 2 right vectoring
+Runways:LERS 07-25:name
+Stars:LEBL STAR 25L ALBER1W:
+Stars:LEBL STAR 25L BISBA1W:
+Stars:LEBL STAR 25L BISBA1Z:
+Stars:LEBL STAR 25L CASPE1W:
+Stars:LEBL STAR 25L CASPE1Z:
+Stars:LEBL STAR 25L GRAUS1W:
+Stars:LEBL STAR 25L LOBAR1W:
+Stars:LEBL STAR 25L MARTA1W:
+Stars:LEBL STAR 25L MARTA1Z:
+Stars:LEBL STAR 25L MATEX1W:
+Stars:LEBL STAR 25L MATEX1Z:
+Stars:LEBL STAR 25L NEPAL1W:
+Stars:LEBL STAR 25L OSTUR1W:
+Stars:LEBL STAR 25L PUMAL1W:
+Stars:LEBL STAR 25L VERSO1W:
+VORs:BCN:name
+VORs:BCN:symbol
+VORs:BGR:name
+VORs:BGR:symbol
+VORs:CLE:name
+VORs:CLE:symbol
+VORs:GIR:name
+VORs:GIR:symbol
+VORs:PRA:name
+VORs:PRA:symbol
+VORs:RES:name
+VORs:RES:symbol
+VORs:SLL:name
+VORs:SLL:symbol
+VORs:VLA:frequency
+VORs:VLA:name
+VORs:VLA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:100
+ABOVE:0
+LEADER:-2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SACTA - ENR/APP
+WINDOWAREA:40.755775:0.305039:42.422268:4.463100
+PLUGIN:Final Count Down:FCDSHOW:FALSE
+PLUGIN:Final Count Down:FCDXPOS:100
+PLUGIN:Final Count Down:FCDYPOS:100
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:631
+PLUGIN:Virtual Controller Assistant:CDYPOS:25
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
