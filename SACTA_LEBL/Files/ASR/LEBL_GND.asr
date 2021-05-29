@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\user\Documents\EuroScope\LEXX\LECB-LECB_20210520192013-210501-0001.sct
+SECTORFILE:C:\Users\user\Documents\EuroScope\LEXX\SACTA_LEBL\LECB-LECB_20210520192013-210501-0001.sct
 SECTORTITLE:LECB-LECB_20210520192013-210501-0001.sct
 Fixes:ASTEK:name
 Fixes:ASTEK:symbol
@@ -23,9 +23,9 @@ Free Text:LEAL VFR\SW:freetext
 Free Text:LEBL ATCSMAC\12000:freetext
 Free Text:LEBL ATCSMAC\14000:freetext
 Free Text:LEBL ATCSMAC\1500:freetext
-Free Text:LEBL ATCSMAC\1900:freetext
 Free Text:LEBL ATCSMAC\3500:freetext
 Free Text:LEBL ATCSMAC\3500:freetext
+Free Text:LEBL ATCSMAC\4000:freetext
 Free Text:LEBL ATCSMAC\4000:freetext
 Free Text:LEBL ATCSMAC\4000:freetext
 Free Text:LEBL ATCSMAC\4200:freetext
@@ -484,16 +484,8 @@ Geo:LECB Landmark Baleares:
 Geo:LECB Landmark Border Spain - France:
 Geo:LECB Landmark Coastline France:
 Geo:LECB Landmark Coastline litoral este:
-VORs:BCN:name
-VORs:BCN:symbol
-VORs:CLE:name
-VORs:CLE:symbol
-VORs:PRA:name
-VORs:PRA:symbol
-VORs:SLL:name
-VORs:SLL:symbol
-VORs:VLA:name
-VORs:VLA:symbol
+Regions:LEBL 07R/25L Active:polygon
+Regions:LEBL Inactive:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -507,7 +499,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:1
 DisplayRotation:24.10000
 TAGFAMILY:SACTA - GND-1
-WINDOWAREA:41.283211:2.048483:41.312428:2.121380
+WINDOWAREA:41.283316:2.048046:41.312533:2.120945
 PLUGIN:Final Count Down:FCDSHOW:TRUE
 PLUGIN:Final Count Down:FCDXPOS:1403
 PLUGIN:Final Count Down:FCDYPOS:1017

@@ -1,7 +1,7 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\user\Documents\EuroScope\LEXX\LECB-LECB_20210520192013-210501-0001.sct
+SECTORFILE:C:\Users\user\Documents\EuroScope\LEXX\SACTA_LEBL\LECB-LECB_20210520192013-210501-0001.sct
 SECTORTITLE:LECB-LECB_20210520192013-210501-0001.sct
 Free Text:LEBL GND\AN:freetext
 Free Text:LEBL GND\AS:freetext

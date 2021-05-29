@@ -1,4 +1,0 @@
-PLUGINS
-VCH:vch_c_hos:000255000
-VCH:vch_blink:0
-END

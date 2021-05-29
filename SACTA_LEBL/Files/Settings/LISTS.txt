@@ -1,5 +1,5 @@
 SIL
-m_Visible:1
+m_Visible:0
 m_X:0
 m_Y:25
 m_LineNumber:0
@@ -27,13 +27,13 @@ m_Column:ETX:5:1:53:0:0:1::::1:0.0
 m_Column:SI:3:1:64:20:0:1::::1:0.0
 END
 SEL
-m_Visible:1
+m_Visible:0
 m_X:0
 m_Y:38
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:-21
-m_HeaderOnly:0
+m_HeaderOnly:1
 m_Column:FR:2:1:63:0:0:1::::1:0.0
 m_Column:C/S:7:0:9:8:0:1::::0:0.0
 m_Column:ATYP:4:1:16:0:0:1::::1:0.0
@@ -59,7 +59,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:73
+m_Y:24
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:3
@@ -72,7 +72,7 @@ m_Column:A:3:1:58:27:0:1::::9:0.0
 m_Column:N/TIPO:6:1:16:0:0:1::::9:0.0
 m_Column:STND:5:1:1:1:0:1:Ground Radar plugin:Ground Radar plugin::9:0.0
 m_Column:EOBT:5:1:97:0:0:1::::9:0.0
-m_Column:E:2:1:19:0:0:0::::9:0.0
+m_Column:E:2:1:19:0:0:1::::9:0.0
 m_Column:TOBT:5:1:97:0:0:1::::4:0.0
 m_Column:CTOT:6:1:53:0:0:1::::4:0.0
 m_Column:TSAT:5:1:98:0:0:1::::4:0.0
@@ -86,7 +86,7 @@ m_Column:ALT:5:1:20:11:0:1::::9:0.0
 m_Column:RFL:4:1:22:30:0:1::::9:0.0
 m_Column:CSSR:7:0:60:31:0:0::::1:0.0
 m_Column:CSSR:5:1:60:869:0:1::CCAMS::9:0.0
-m_Column:S:2:1:19:29:0:0::::9:0.0
+m_Column:S:2:1:19:29:0:1::::9:0.0
 m_Column:R:3:1:63:0:0:1::::9:0.0
 m_Column:TTOT:6:1:99:7:0:1::::9:0.0
 m_Column:TXT:7:1:19:29:0:0::::1:0.0
@@ -94,7 +94,7 @@ m_Column:D:2:1:444:544:0:0:vSMR:vSMR::1:0.0
 END
 ARR
 m_Visible:1
-m_X:1118
+m_X:1141
 m_Y:24
 m_LineNumber:0
 m_Resizable:1
