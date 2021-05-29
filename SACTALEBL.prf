@@ -1,0 +1,40 @@
+Settings	sector	\LECB-LECB_20210520192013-210501-0001.sct
+Settings	alias	\Files\Alias\alias.txt
+Settings	SettingsfileSYMBOLOGY	\Files\Settings\SIMBOLOGY.txt
+Settings	SettingsfileVOICE	\Files\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\Files\Settings\LOGIN PROFILES.txt
+Settings	SettingsfileTAGS	\Files\Settings\TAGS.txt
+Settings	SettingsfileSIL	\Files\Settings\LISTS.txt
+Settings	SettingsfileSEL	\Files\Settings\LISTS.txt
+Settings	SettingsfileDEP	\Files\Settings\LISTS.txt
+Settings	SettingsfileARR	\Files\Settings\LISTS.txt
+Settings	SettingsfileFP	\Files\Settings\LISTS.txt
+Settings	SettingsfilePLUGINS	\Files\Settings\PLUGINS.txt
+Settings	Settingsfile	\Files\Settings\GENERAL.txt
+Settings	SettingsfileSCREEN	\Files\Settings\SCREEN.txt
+Settings	SettingsfileCONFLICT	\Files\Settings\LISTS.txt
+Settings	SettingsfileVCCS	\Files\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\Files\Settings\LISTS.txt
+Plugins	Plugin0	\Files\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin0Display0	Ground Radar display
+Settings	airlines	\Files\ICAO\ICAO_Airlines.txt
+Settings	airports	\Files\ICAO\ICAO_Airports.txt
+Settings	aircraft	\Files\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\Files\NavData\icao.txt
+Settings	airways	\Files\NavData\airway.txt
+Plugins	Plugin1	\Files\Plugins\vSMR\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+LastSession	connecttype	0
+LastSession	facility	5
+LastSession	rating	3
+LastSession	tovatsim	1
+LastSession	range	150
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Plugins	Plugin2	\Files\Plugins\CCAMS.dll
+LastSession	atis_letter	74
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin3	\Files\Plugins\VCH.dll
+RecentFiles	Recent2	\Files\ASR\LEBL_GND.asr
+RecentFiles	Recent1	\Files\ASR\LEBL_GND.asr
